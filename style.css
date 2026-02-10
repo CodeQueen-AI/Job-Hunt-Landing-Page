@@ -587,21 +587,7 @@ nav {
   color: var(--text-light);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Client Section */
 .swiper {
   padding-top: 4rem;
   width: 100%;
@@ -648,6 +634,23 @@ nav {
   color: var(--text-light);
   text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .footer__container {
   display: grid;
