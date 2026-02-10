@@ -76,3 +76,32 @@
 .btn:hover span {
   transform: scale(1.1); 
 }
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+.logo span {
+  color: #fa6021;
+}
+
+img {
+  display: flex;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+ul {
+  list-style: none;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
