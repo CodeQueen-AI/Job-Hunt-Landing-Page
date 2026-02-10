@@ -451,7 +451,8 @@ nav {
 
 .job__card {
   padding: 1rem;
-  border-radius: 5px;
+  border-radius: 1px;
+  cursor: pointer;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
   transition: 0.3s;
 }
