@@ -343,19 +343,7 @@ nav {
   color: var(--text-light);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Career Section */
 .explore__grid {
   margin-block: 4rem;
   display: grid;
@@ -451,6 +439,21 @@ nav {
 .explore__btn {
   text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .job__grid {
   margin-top: 4rem;
