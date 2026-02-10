@@ -442,21 +442,7 @@ nav {
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Job Section */
 .job__grid {
   margin-top: 4rem;
   display: grid;
@@ -559,6 +545,20 @@ nav {
   color: var(--white);
   background-color: var(--primary-color-dark);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .offer__grid {
   margin-top: 4rem;
