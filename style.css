@@ -635,23 +635,7 @@ nav {
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Footer */
 .footer__container {
   display: grid;
   gap: 4rem 2rem;
@@ -696,6 +680,25 @@ nav {
   color: var(--text-light);
   text-align: center;
 }
+
+/* Responsive Design */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (width > 540px) {
   .steps__grid {
