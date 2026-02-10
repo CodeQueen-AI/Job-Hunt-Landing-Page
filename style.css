@@ -682,24 +682,6 @@ nav {
 }
 
 /* Responsive Design */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (width > 540px) {
   .steps__grid {
     grid-template-columns: repeat(2, 1fr);
