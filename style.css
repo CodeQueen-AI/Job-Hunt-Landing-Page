@@ -46,7 +46,7 @@
   text-align: center;
 }
 
-/* Button */
+/* Button
 .btn {
   padding: 0.5rem 2rem;
   outline: none;
@@ -54,7 +54,7 @@
   font-size: 1rem;
   color: var(--white);                 
   background-color: var(--primary-color);
-  /* border-radius: 5px; */
+  /* border-radius: 5px; 
   cursor: pointer;                       
   transition: all 0.3s ease;            
   position: relative;
@@ -75,6 +75,37 @@
 
 .btn:hover span {
   transform: scale(1.1); 
+} */
+
+/* Button */
+.btn {
+  padding: 0.5rem 2rem;
+  outline: none;
+  border: 2px solid var(--primary-color);  /* purple border */
+  font-size: 1rem;
+  color: var(--primary-color);            /* purple text */
+  background-color: var(--white);         /* white bg */
+  cursor: pointer;                        
+  transition: all 0.3s ease;            
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;                     /* add radius if chahiye */
+}
+
+.btn:hover {
+  background-color: var(--primary-color); /* purple bg on hover */
+  color: var(--white);                     /* white text on hover */
+  border: 2px solid var(--primary-color); /* border stays purple */
+  box-shadow: 2px 2px 10px rgba(106, 56, 194, 0.5);
+}
+
+.btn span {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.btn:hover span {
+  transform: scale(1.1); /* text slightly grows on hover */
 }
 
 /* Logo */
