@@ -283,19 +283,7 @@ nav {
   transform: translate(-50%, -50%);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-.
+/* Hiring Section */
 .steps {
   background-image: url("assets/steps-bg.png");
   background-position: center center;
@@ -354,6 +342,19 @@ nav {
 .steps__card p {
   color: var(--text-light);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .explore__grid {
   margin-block: 4rem;
