@@ -77,14 +77,16 @@
   transform: scale(1.1); 
 }
 
+/* Logo */
 .logo {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--primary-color);
-}
+} 
 
 .logo span {
   color: #fa6021;
+  font-family: 'Lobster', cursive;
 }
 
 img {
@@ -106,10 +108,7 @@ body {
   scroll-behavior: smooth;
 }
 
-body {
-  font-family: "Poppins", sans-serif;
-}
-
+/* Navbar */
 nav {
   position: fixed;
   isolation: isolate;
@@ -163,6 +162,18 @@ nav {
 .nav__links a:hover {
   color: var(--primary-color);
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header__container {
   position: relative;
