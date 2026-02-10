@@ -161,18 +161,7 @@ nav {
   color: var(--primary-color);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+/* Header */
 .header__container {
   position: relative;
   isolation: isolate;
@@ -294,6 +283,19 @@ nav {
   transform: translate(-50%, -50%);
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+.
 .steps {
   background-image: url("assets/steps-bg.png");
   background-position: center center;
