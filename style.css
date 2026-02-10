@@ -48,13 +48,13 @@
 
 /* Button */
 .btn {
-  padding: 1rem 2rem;
+  padding: 0.5rem 2rem;
   outline: none;
   border: 2px solid var(--primary-color); 
   font-size: 1rem;
   color: var(--white);                 
   background-color: var(--primary-color);
-  border-radius: 5px;
+  /* border-radius: 5px; */
   cursor: pointer;                       
   transition: all 0.3s ease;            
   position: relative;
